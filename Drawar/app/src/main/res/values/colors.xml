@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_gradient_start">#31244e</color>
+    <color name="bg_gradient_end">#6b394c</color>
+    <color name="inputTextColor">#ff414042</color>
+    <color name="sayHiBlue">#ff33a1c9</color>
+    <color name="sayHiDarkBlue">#ff378faf</color>
+    <color name="sayHiGreen">#ff55bc7d</color>
+    <color name="sayHiDarkGreen">#ff4fa571</color>
+    <color name="chatBubblePrimaryText">#ffffffff</color>
+    <color name="chatBubbleSecondaryText">#ffffffff</color>
+    <color name="mediumGrey">#ffb4b4b4</color>
+
+    <color name="guillotine_background">#444153</color>
+    <color name="guillotine_background_dark">#383547</color>
+    <color name="selected_item_color">#30d1d5</color>
+
+    <color name="help_button_view">#ffcccccc</color> <!-- help button view background color -->
+    <color name="help_view">#ff404040</color> <!-- background color for entire help view -->
+</resources>

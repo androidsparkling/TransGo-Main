@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingEnd="60dp"
+    android:layout_marginTop="1.0dip"
+    android:paddingStart="15dp"
+    android:clipToPadding="false">
+
+
+<TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    android:id="@+id/txt_msg"
+
+    android:layout_marginTop="1.0dip"
+    android:background="@drawable/chat_bubble_output_primary"
+    android:textColor="@color/chatBubbleSecondaryText"
+    android:focusable="true"
+    android:fontFamily="sans-serif"
+
+    android:textStyle="normal"
+
+    android:textSize="17.0sp"
+        android:text="How are you doing? This is a long message that should probably wrap."
+        />
+
+
+</RelativeLayout>

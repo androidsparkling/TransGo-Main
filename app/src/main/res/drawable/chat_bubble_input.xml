@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/mediumGrey" />
+            <padding android:left="10.0dip" android:top="6.0dip" android:right="10.0dip" android:bottom="6.0dip" />
+            <corners android:topLeftRadius="18.0dip" android:topRightRadius="18.0dip" android:bottomLeftRadius="4.0dip" android:bottomRightRadius="4.0dip" />
+        </shape>
+    </item>
+    <item android:state_activated="true">
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="@color/mediumGrey" />
+            <padding android:left="10.0dip" android:top="6.0dip" android:right="10.0dip" android:bottom="6.0dip" />
+            <corners android:topLeftRadius="18.0dip" android:topRightRadius="18.0dip" android:bottomLeftRadius="4.0dip" android:bottomRightRadius="4.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <solid android:color="#ffe5e5ea" />
+            <padding android:left="10.0dip" android:top="6.0dip" android:right="10.0dip" android:bottom="6.0dip" />
+            <corners android:topLeftRadius="18.0dip" android:topRightRadius="18.0dip" android:bottomLeftRadius="4.0dip" android:bottomRightRadius="4.0dip" />
+        </shape>
+    </item>
+</selector>
